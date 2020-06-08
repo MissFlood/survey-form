@@ -1,0 +1,56 @@
+#name, #email, #number, #dropdown, #submit {
+    width: 100%;
+    height: 30px;
+    display: block;
+    margin: auto;
+    border: solid 1px #281D5D;
+    border-radius: 5px;
+    background-color: white;
+    font-size: 16px;
+    text-indent: 5px;
+  }
+  #dropdown {
+    width: 100%;
+    text-indent: 0px;
+    height: 32px;
+  }
+  form {
+    line-height: 35px;
+  }
+  textarea {
+    width: 100%;
+    height: 100px;
+    display: block;
+    margin: auto;
+    border: solid 1px gray;
+    border-radius: 10px;
+    font-size: 16px;
+    text-indent: 5px;
+    padding-top: 5px;
+  }
+  #submit{
+    background: #5B089B;
+    border: solid 1px #281D5D;
+    color: white;
+    height: 35px;
+  }
+  .survey {
+    width: 45%;
+    display: block;
+    margin: auto;
+    background: rgba(32, 7, 69, 0.7);
+    border: solid 1px #281D5D;
+    border-radius: 20px;
+    color: white;
+    padding: 50px;
+  }
+  .header{
+    text-align: center;
+    color: white;
+  }
+  body {
+    background-image: url(https://wallpaperstock.net/purple-dream-ocean--rocks-wallpapers_42970_1920x1200.jpg);
+    background-size: cover;
+    font-size: 20px;
+    font-family: arial;
+  }
